@@ -17,31 +17,6 @@ M. Phil in Electronic and Telecommunication Engineering, University of Moratuwa 
 
 B. Tech in Electronic and Communication Engineering, Lovely Professional University, Punjab, India (2017)
 
-# Academic Experience
-
-- **2023 - Present:** **Faculty of Engineering and Technology, CINEC Campus, Malabe**  
-  *Lecturer in Electronic and Telecommunication Engineering*  
-  - Conducting lectures for Engineering undergraduates (B.Sc. (Hons)/B.Eng (Hons)).
-  - Supervising final year research projects.
-  - Engaged in research and development.
-
-- **2022 - 2023:** **British Institute of Engineering and Technology (Affiliated to University of West England)**  
-  *Lecturer - Visiting*  
-  - Conducted lectures and laboratory sessions on Digital Signal Processing.
-    
- - **2021 - 2022:** **University College of Ratmalana (University of Vocational Technology)**  
-  *Lecturer - Probationary*  
-   - Conducted lectures and laboratory sessions for undergraduates (HND in Telecommunication Technology).
-
- - **2018 - 2021:** **Department of Electronic and Telecommunication Engineering, University of Moratuwa**  
-  *Research Assistant*  
-   - Engaged in full-time research as a M.Phil candidate.
-   - Conducted laboratory sessions for undergraduates (B.Sc. (Hons)) and posgraduates (M.Sc.).
-
- - **2018 - 2019:** **Department of Information Technology, University of Vocational Technology**  
-  *Lecturer - Visiting*  
-    - Conducted lectures and laboratory sessions on wireless communication for undergraduates.
-    
 # Teaching Philosophy
 
 In today's digital era, where information is readily available at the click of a button, the role of the teacher has not diminished—it has evolved. While students can access vast resources online, they often need guidance to understand how theories can be applied to real-world scenarios. I view my role as a facilitator who transforms abstract facts into practical, multifaceted insights. My goal is to help students develop a broader perspective that enables them to see beyond the surface of the information they encounter.
