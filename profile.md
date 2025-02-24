@@ -1,3 +1,8 @@
+---
+layout: default
+title: Profile
+---
+
 # Academic Experience
 
 - **2023 - Present:** **Faculty of Engineering and Technology, CINEC Campus, Malabe**  
@@ -22,4 +27,6 @@
  - **2018 - 2019:** **Department of Information Technology, University of Vocational Technology**  
   *Lecturer - Visiting*  
     - Conducted lectures and laboratory sessions on wireless communication for undergraduates.
+  
+ # Academic Training
     
