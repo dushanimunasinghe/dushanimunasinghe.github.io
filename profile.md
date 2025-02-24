@@ -77,3 +77,11 @@ title: Profile
   - Wireless Communication
   - Digital Signal Processing
  
+  # Administrative Positions/ Committees
+  
+  **Department Representative, Faculty Internal Quality Assurance Cell (FIQAC), Faculty of Engineering and Technology**
+  *Responsibilities*
+  - Ensuring the implementation of QA policies, guidelines and procedures entitled to the department.
+  
+  
+ 
