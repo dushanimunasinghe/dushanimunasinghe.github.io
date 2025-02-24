@@ -11,13 +11,7 @@ I’m Dushani Munasinghe, a Lecturer in Electronics and Telecommunication Engine
 
 With a strong academic background, I am passionate about guiding engineering undergraduates to excel in the dynamic fields of electronics and telecommunications. My journey in academia has been enriched by diverse teaching experiences at different institutions teaching B.Sc. Engineering undergraduate students, engaging in research, supervising final year projects, coordinating programs and more. 
 
-# Academic Credentials
-
-M. Phil in Electronic and Telecommunication Engineering, University of Moratuwa (2022)
-
-B. Tech in Electronic and Communication Engineering, Lovely Professional University, Punjab, India (2017)
-
-# Teaching Philosophy
+# My Teaching Philosophy
 
 In today's digital era, where information is readily available at the click of a button, the role of the teacher has not diminished—it has evolved. While students can access vast resources online, they often need guidance to understand how theories can be applied to real-world scenarios. I view my role as a facilitator who transforms abstract facts into practical, multifaceted insights. My goal is to help students develop a broader perspective that enables them to see beyond the surface of the information they encounter.
 
