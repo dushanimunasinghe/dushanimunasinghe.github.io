@@ -35,12 +35,12 @@ B. Tech in Electronic and Communication Engineering, Lovely Professional Univers
 
  - **2018 - 2021:** **Department of Electronic and Telecommunication Engineering, University of Moratuwa**  
   *Research Assistant*  
-  - Engaged in full-time research as a M.Phil candidate.
-  - Conducted laboratory sessions for undergraduates (B.Sc. (Hons)) and posgraduates (M.Sc.).
+   - Engaged in full-time research as a M.Phil candidate.
+   - Conducted laboratory sessions for undergraduates (B.Sc. (Hons)) and posgraduates (M.Sc.).
 
  - **2018 - 2019:** **Department of Information Technology, University of Vocational Technology**  
   *Lecturer - Visiting*  
-  - Conducted lectures and laboratory sessions on wireless communication for undergraduates.
+    - Conducted lectures and laboratory sessions on wireless communication for undergraduates.
     
 # Teaching Philosophy
 
