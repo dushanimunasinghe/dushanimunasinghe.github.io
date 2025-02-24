@@ -7,13 +7,12 @@ title: Research
 
 My research interests include:
 
-- Robotics
-- Control Systems
-- Embedded System and Embedded Machine Learning
-- Edge Computing
-- Applied Electronics
+- Digital Signal Processing
+- Antenna Systems Design
+- Optical Communication
+- Renewable Energy
 
-Current Research Work:
+Final Year Projects Supervision:
 
 - **Wearable Edge Computing Device for Irregular Heart Condition Detection**
   - Objective: Develop an affordable, real-time health monitoring solution for detecting irregular heart conditions.
