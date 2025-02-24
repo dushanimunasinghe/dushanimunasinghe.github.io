@@ -2,6 +2,11 @@
 layout: default
 title: Profile
 ---
+# Academic Credentials
+
+M. Phil in Electronic and Telecommunication Engineering, University of Moratuwa (2022)
+
+B. Tech in Electronic and Communication Engineering, Lovely Professional University, Punjab, India (2017)
 
 # Academic Experience
 
