@@ -76,8 +76,12 @@ Link: <a href="https://cinecedu-my.sharepoint.com/:b:/g/personal/dushani_munasin
 **Course Materials: EE2316 - Signals and Systems**
 
 Link 1: <a href="https://cinecedu-my.sharepoint.com/:f:/g/personal/dushani_munasinghe_cinec_edu/Erame8IKcPRJrc4iCOAcsO8BPYD7hxc1gyQap2OMP5DVrQ?e=ndSGcS" target="_blank" rel="noopener noreferrer"> Lecture Materials</a>
+
 Link 2: <a href="https://cinecedu-my.sharepoint.com/:f:/g/personal/dushani_munasinghe_cinec_edu/ElaZo_I1rKxHuCxFcmxnIH4BS2OSkpVyZM_H7NUHjfo_1Q?e=zhfRvp" target="_blank" rel="noopener noreferrer"> Extra Reading Materials - MIT Open Courseware</a>
+
 Link 3: <a href="https://cinecedu-my.sharepoint.com/:f:/g/personal/dushani_munasinghe_cinec_edu/EtwHXmpsMmlEiXRho63d2QsBDtHm9VEPZr3DPICipSMGhA?e=KrPW3A" target="_blank" rel="noopener noreferrer"> Assessments</a>
+
 Link 4: <a href="https://cinecedu-my.sharepoint.com/:b:/g/personal/dushani_munasinghe_cinec_edu/ERK365EMQpJAv45ZpKhlpqUB6_BXLW6ByY_XCwQ1NCOiWg?e=OIBG2p" target="_blank" rel="noopener noreferrer"> Module Outline</a>
+
 Link 6: <a href="https://cinecedu-my.sharepoint.com/:f:/g/personal/dushani_munasinghe_cinec_edu/EovQwS-frWdImTTCL3puQ0EBPUO8VXyoiRuijg0w4xuDFw?e=6zWYnv" target="_blank" rel="noopener noreferrer"> References</a>
 
