@@ -85,7 +85,7 @@ B. Tech in Electronic and Communication Engineering, Lovely Professional Univers
  
  # Administrative Positions / Committees (Present)
   
-  **Department Representative, Faculty Internal Quality Assurance Cell (FIQAC), Faculty of Engineering and Technology**
+  **Department Representative, Faculty Internal Quality Assurance Unit (FIQAU), Faculty of Engineering and Technology**
   
   *Key Responsibilities*
   - Ensuring the implementation of QA policies, guidelines and procedures entitled to the department.
