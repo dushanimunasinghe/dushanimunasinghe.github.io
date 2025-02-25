@@ -46,7 +46,7 @@ B. Tech in Electronic and Communication Engineering, Lovely Professional Univers
   - Program Director: Dr. Nilantha De Silva.
   - Program focused on academic teaching, research and administration for university teachers.
  
- # Courses / Modules Taught
+# Teaching Experience
 
   **B.Sc. (Hons) in Engineering in Electronic and Telecommunication Engineering**  
   
@@ -83,7 +83,7 @@ B. Tech in Electronic and Communication Engineering, Lovely Professional Univers
   - Wireless Communication
   - Digital Signal Processing
  
- # Administrative Positions / Committees (Present)
+# Administrative Positions / Committees (Present)
   
   **Department Representative, Faculty Internal Quality Assurance Unit (FIQAU), Faculty of Engineering and Technology**
   
