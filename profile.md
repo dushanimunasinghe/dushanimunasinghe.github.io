@@ -34,7 +34,7 @@ B. Tech in Electronic and Communication Engineering, Lovely Professional Univers
   *Lecturer - Visiting*  
     - Conducted lectures and laboratory sessions on wireless communication for undergraduates.
   
- # Academic Training
+  # Academic Training
 
 - **2024 - Present:** **Certificate in Teaching in Higher Education** 
   - Staff Development Program conducted by CINEC Campus.  
