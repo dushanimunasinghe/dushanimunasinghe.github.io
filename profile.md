@@ -33,8 +33,8 @@ B. Tech in Electronic and Communication Engineering, Lovely Professional Univers
  - **2018 - 2019:** **Department of Information Technology, University of Vocational Technology**  
   *Lecturer - Visiting*  
     - Conducted lectures and laboratory sessions on wireless communication for undergraduates.
-  
-  # Academic Training
+
+# Academic Training
 
 - **2024 - Present:** **Certificate in Teaching in Higher Education** 
   - Staff Development Program conducted by CINEC Campus.  
@@ -45,7 +45,7 @@ B. Tech in Electronic and Communication Engineering, Lovely Professional Univers
   - Conducted by Staff Development Center (SDC), University of Ruhuna  
   - Program Director: Dr. Nilantha De Silva.
   - Program focused on academic teaching, research and administration for university teachers.
- 
+
 # Teaching Experience
 
   **B.Sc. (Hons) in Engineering in Electronic and Telecommunication Engineering**  
@@ -82,7 +82,7 @@ B. Tech in Electronic and Communication Engineering, Lovely Professional Univers
   **Other Courses**
   - Wireless Communication
   - Digital Signal Processing
- 
+
 # Administrative Positions / Committees (Present)
   
   **Department Representative, Faculty Internal Quality Assurance Unit (FIQAU), Faculty of Engineering and Technology**
