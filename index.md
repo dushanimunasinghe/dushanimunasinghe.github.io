@@ -13,8 +13,7 @@ title: About
        <br><br> 
        With a strong academic background, I am passionate about guiding engineering undergraduates to excel in the dynamic fields of electronics and 
        telecommunications. My journey in academia has been enriched by diverse teaching experiences at different institutions teaching B.Sc. Engineering 
-       undergraduate students, engaging in research, supervising final year projects, coordinating programs and more. 
-       </p>
+       undergraduate students, engaging in research, supervising final year projects, coordinating programs and more. </p>
     </div>
 </div>
 
