@@ -8,9 +8,12 @@ title: About
 <div style="display: flex; align-items: flex-start; gap: 20px;">
     <img src="assets/myphoto.jpeg" alt="My Photo" style="width:200px; height:250px;">
     <div>
-       I’m Dushani Munasinghe, a Lecturer in Electronics and Telecommunication Engineering at the Department of Electrical & Electronics Engineering, Faculty of Engineering & Technology, CINEC Campus, Sri Lanka.
-
-With a strong academic background, I am passionate about guiding engineering undergraduates to excel in the dynamic fields of electronics and telecommunications. My journey in academia has been enriched by diverse teaching experiences at different institutions teaching B.Sc. Engineering undergraduate students, engaging in research, supervising final year projects, coordinating programs and more. 
+       I’m Dushani Munasinghe, a Lecturer in Electronics and Telecommunication Engineering at the Department of Electrical & Electronics Engineering, Faculty of 
+       Engineering & Technology, CINEC Campus, Sri Lanka.
+       <br><br> 
+       With a strong academic background, I am passionate about guiding engineering undergraduates to excel in the dynamic fields of electronics and 
+       telecommunications. My journey in academia has been enriched by diverse teaching experiences at different institutions teaching B.Sc. Engineering 
+       undergraduate students, engaging in research, supervising final year projects, coordinating programs and more. 
     </div>
 </div>
 
