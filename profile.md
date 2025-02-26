@@ -31,8 +31,8 @@ B. Tech in Electronic and Communication Engineering, Lovely Professional Univers
    - Conducted laboratory sessions for undergraduates (B.Sc. (Hons)) and posgraduates (M.Sc.).
 
   **2018 - 2019:** **Department of Information Technology, University of Vocational Technology**  
-  *Lecturer - Visiting*  
-    - Conducted lectures and laboratory sessions on wireless communication for undergraduates.
+  *Lecturer - Visiting* 
+  - Conducted lectures and laboratory sessions on wireless communication for undergraduates.
 
 # Academic Training
 
@@ -43,7 +43,7 @@ B. Tech in Electronic and Communication Engineering, Lovely Professional Univers
 
   **2021 - 2022:** **Certificate Course for Professional Development in Higher Education (CCPDHE)**  
   - Conducted by Staff Development Center (SDC), University of Ruhuna  
-  - Program Director: Dr. Nilantha De Silva.
+  - Program Director: Prof. Nilantha De Silva.
   - Program focused on academic teaching, research and administration for university teachers.
 
 # Teaching Experience
