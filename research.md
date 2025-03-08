@@ -6,9 +6,8 @@ title: Research
 # Research Interests
 
 - Digital Signal Processing
-- Antenna Systems Design
+- Antenna Design and Simulation
 - Optical Communication
-- Renewable Energy
 
 # M.Phil Research
 
